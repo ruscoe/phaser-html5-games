@@ -9,12 +9,16 @@ these games in any modern web browser - desktop or mobile.
 
 ### Space Blast
 
+![Space Blast screen shot](http://ruscoe.org/html5/space-blast-thumbnail.png)
+
 [Play Space Blast](http://ruscoe.org/html5/space-blast/)
 
 Avoid asteroids and blast aliens. Works with arrow keys or cursor on desktop,
 touch screen on mobile.
 
 ### Stabby Skeleton
+
+![Stabby Skeleton screen shot](http://ruscoe.org/html5/stabby-skeleton-thumbnail.png)
 
 [Play Stabby Skeleton](http://ruscoe.org/html5/stabby-skeleton/)
 
